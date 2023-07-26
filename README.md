@@ -1,5 +1,5 @@
 # React & TailwindCSS Portfolio - With Dark Mode
-![React-TailwindCSS-Portfolio]([https://i.postimg.cc/GtRZW5wZ/Screenshot-2023-07-26-170425.png])
+![React-TailwindCSS-Portfolio](https://i.postimg.cc/GtRZW5wZ/Screenshot-2023-07-26-170425.png)
 
 ## Features
 
